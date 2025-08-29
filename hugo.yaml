@@ -1,4 +1,4 @@
-baseurl: https://example.com/
+baseurl: https://github.com/SuperSpiderBoy/SuperSpiderBoy.github.io
 languageCode: en-us
 theme: hugo-theme-stack
 title: Example Site
@@ -203,6 +203,12 @@ menu:
           url: https://github.com/SuperSpiderBoy
           params:
               icon: brand-github
+        - identifier: bilibili
+          name: Bilibili
+          url: https://space.bilibili.com/397711620?spm_id_from=333.1007.0.0
+          params:
+              icon: bilibili
+              
 
 related:
     includeNewer: true
